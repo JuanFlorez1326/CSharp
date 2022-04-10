@@ -1,0 +1,7 @@
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\bin\Debug\Algoritmo8.exe.config
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\bin\Debug\Algoritmo8.exe
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\bin\Debug\Algoritmo8.pdb
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.exe
+C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.pdb

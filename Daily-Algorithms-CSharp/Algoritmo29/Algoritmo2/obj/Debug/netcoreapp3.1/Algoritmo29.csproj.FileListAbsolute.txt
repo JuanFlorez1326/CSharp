@@ -1,0 +1,14 @@
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo29.exe
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo29.deps.json
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo29.runtimeconfig.json
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo29.runtimeconfig.dev.json
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo29.dll
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo29.pdb
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.AssemblyInfoInputs.cache
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.AssemblyInfo.cs
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.dll
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.pdb
+C:\Users\Juan\Downloads\Algoritmos\Algoritmo27\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo29.genruntimeconfig.cache

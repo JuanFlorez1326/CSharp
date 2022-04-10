@@ -1,0 +1,130 @@
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\POO.exe.config
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\POO.exe
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\POO.pdb
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\Google.Protobuf.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\MySql.Data.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Buffers.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Memory.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\Zstandard.Net.dll
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\Google.Protobuf.pdb
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\Google.Protobuf.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\MySql.Data.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Buffers.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Memory.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SENA\source\repos\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.csproj.CopyComplete
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.exe
+C:\Users\SENA\source\repos\POO\POO\obj\Debug\POO.pdb
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\POO.exe.config
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\POO.exe
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\POO.pdb
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\Google.Protobuf.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\MySql.Data.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Buffers.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Memory.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\Zstandard.Net.dll
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\Google.Protobuf.pdb
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\Google.Protobuf.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\MySql.Data.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Buffers.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Memory.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SENA\Desktop\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.csproj.CopyComplete
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.exe
+C:\Users\SENA\Desktop\POO\POO\obj\Debug\POO.pdb
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\POO.exe
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\POO.pdb
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\MySql.Data.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Buffers.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Memory.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\Zstandard.Net.dll
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\MySql.Data.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Buffers.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Memory.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.exe
+C:\Users\Juan\Downloads\PabloHacker\POO JUAN\POO\POO\obj\Debug\POO.pdb
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\POO.exe
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\POO.pdb
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\MySql.Data.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Buffers.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Memory.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\Zstandard.Net.dll
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\MySql.Data.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Buffers.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Memory.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan\Downloads\POO\POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.Form1.resources
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.exe
+C:\Users\Juan\Downloads\POO\POO\obj\Debug\POO.pdb

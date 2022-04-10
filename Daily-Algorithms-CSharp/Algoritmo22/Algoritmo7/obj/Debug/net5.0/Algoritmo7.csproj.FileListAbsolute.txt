@@ -1,0 +1,16 @@
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\Algoritmo7.exe
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\Algoritmo7.deps.json
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\Algoritmo7.runtimeconfig.json
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\Algoritmo7.runtimeconfig.dev.json
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\Algoritmo7.dll
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\ref\Algoritmo7.dll
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\bin\Debug\net5.0\Algoritmo7.pdb
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.AssemblyInfoInputs.cache
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.AssemblyInfo.cs
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.dll
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\ref\Algoritmo7.dll
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.pdb
+C:\Users\Juan\Downloads\Sena\15 Algoritmos C#\Algoritmo7\Algoritmo7\obj\Debug\net5.0\Algoritmo7.genruntimeconfig.cache

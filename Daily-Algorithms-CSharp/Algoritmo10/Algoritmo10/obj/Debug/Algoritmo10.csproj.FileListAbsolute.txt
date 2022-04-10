@@ -1,0 +1,7 @@
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\bin\Debug\Algoritmo10.exe.config
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\bin\Debug\Algoritmo10.exe
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\bin\Debug\Algoritmo10.pdb
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.exe
+C:\Users\Juan\Downloads\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.pdb

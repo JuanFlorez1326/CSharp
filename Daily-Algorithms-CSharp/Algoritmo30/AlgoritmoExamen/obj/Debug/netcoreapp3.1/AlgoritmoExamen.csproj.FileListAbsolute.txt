@@ -1,0 +1,13 @@
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\bin\Debug\netcoreapp3.1\AlgoritmoExamen.exe
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\bin\Debug\netcoreapp3.1\AlgoritmoExamen.deps.json
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\bin\Debug\netcoreapp3.1\AlgoritmoExamen.runtimeconfig.json
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\bin\Debug\netcoreapp3.1\AlgoritmoExamen.runtimeconfig.dev.json
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\bin\Debug\netcoreapp3.1\AlgoritmoExamen.dll
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\bin\Debug\netcoreapp3.1\AlgoritmoExamen.pdb
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.csprojAssemblyReference.cache
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.AssemblyInfoInputs.cache
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.AssemblyInfo.cs
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.csproj.CoreCompileInputs.cache
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.dll
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.pdb
+C:\Users\SENA\3D Objects\AlgoritmoExamen\AlgoritmoExamen\obj\Debug\netcoreapp3.1\AlgoritmoExamen.genruntimeconfig.cache

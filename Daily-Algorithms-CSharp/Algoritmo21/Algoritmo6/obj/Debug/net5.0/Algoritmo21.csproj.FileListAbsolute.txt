@@ -1,0 +1,16 @@
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\Algoritmo21.exe
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\Algoritmo21.deps.json
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\Algoritmo21.runtimeconfig.json
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\Algoritmo21.runtimeconfig.dev.json
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\Algoritmo21.dll
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\ref\Algoritmo21.dll
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\bin\Debug\net5.0\Algoritmo21.pdb
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.AssemblyInfoInputs.cache
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.AssemblyInfo.cs
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.dll
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\ref\Algoritmo21.dll
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.pdb
+C:\Users\Juan\Downloads\Algoritmo21\Algoritmo6\obj\Debug\net5.0\Algoritmo21.genruntimeconfig.cache

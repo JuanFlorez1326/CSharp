@@ -1,0 +1,16 @@
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\Triqui.exe
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\Triqui.deps.json
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\Triqui.runtimeconfig.json
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\Triqui.runtimeconfig.dev.json
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\Triqui.dll
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\ref\Triqui.dll
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\bin\Debug\net5.0\Triqui.pdb
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.AssemblyInfoInputs.cache
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.AssemblyInfo.cs
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.dll
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\ref\Triqui.dll
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.pdb
+C:\Users\Juan\Downloads\Triqui C#\Triqui\Triqui\obj\Debug\net5.0\Triqui.genruntimeconfig.cache

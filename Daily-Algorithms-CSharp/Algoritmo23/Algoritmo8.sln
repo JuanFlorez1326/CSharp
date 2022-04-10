@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo23", "Algoritmo8\Algoritmo23.csproj", "{57AB836C-3D35-44F1-8B8F-19E87FE0C733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AB836C-3D35-44F1-8B8F-19E87FE0C733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AB836C-3D35-44F1-8B8F-19E87FE0C733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AB836C-3D35-44F1-8B8F-19E87FE0C733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AB836C-3D35-44F1-8B8F-19E87FE0C733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3BF68C-17C7-4B75-9AE0-3A838B24A208}
+	EndGlobalSection
+EndGlobal

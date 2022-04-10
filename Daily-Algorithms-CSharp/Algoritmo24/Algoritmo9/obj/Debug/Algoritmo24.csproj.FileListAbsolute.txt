@@ -1,0 +1,6 @@
+C:\Users\Juan\Downloads\Algoritmo24\Algoritmo9\bin\Debug\Algoritmo9.exe.config
+C:\Users\Juan\Downloads\Algoritmo24\Algoritmo9\bin\Debug\Algoritmo9.exe
+C:\Users\Juan\Downloads\Algoritmo24\Algoritmo9\bin\Debug\Algoritmo9.pdb
+C:\Users\Juan\Downloads\Algoritmo24\Algoritmo9\obj\Debug\Algoritmo24.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Algoritmo24\Algoritmo9\obj\Debug\Algoritmo9.exe
+C:\Users\Juan\Downloads\Algoritmo24\Algoritmo9\obj\Debug\Algoritmo9.pdb

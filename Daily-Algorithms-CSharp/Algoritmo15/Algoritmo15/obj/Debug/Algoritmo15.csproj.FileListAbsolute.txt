@@ -1,0 +1,7 @@
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\bin\Debug\Algoritmo15.exe.config
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\bin\Debug\Algoritmo15.exe
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\bin\Debug\Algoritmo15.pdb
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\obj\Debug\Algoritmo15.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\obj\Debug\Algoritmo15.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\obj\Debug\Algoritmo15.exe
+C:\Users\Juan\Downloads\Algoritmo15\Algoritmo15\obj\Debug\Algoritmo15.pdb

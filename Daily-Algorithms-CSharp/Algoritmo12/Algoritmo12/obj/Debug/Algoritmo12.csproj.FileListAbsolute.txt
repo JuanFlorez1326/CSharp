@@ -1,0 +1,7 @@
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\bin\Debug\Algoritmo12.exe.config
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\bin\Debug\Algoritmo12.exe
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\bin\Debug\Algoritmo12.pdb
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\obj\Debug\Algoritmo12.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\obj\Debug\Algoritmo12.exe
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\obj\Debug\Algoritmo12.pdb
+C:\Users\Juan\Downloads\Algoritmo12\Algoritmo12\obj\Debug\Algoritmo12.csproj.AssemblyReference.cache

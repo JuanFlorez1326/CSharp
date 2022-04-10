@@ -1,0 +1,14 @@
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\bin\Debug\netcoreapp3.1\Algoritmo34.exe
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\bin\Debug\netcoreapp3.1\Algoritmo34.deps.json
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\bin\Debug\netcoreapp3.1\Algoritmo34.runtimeconfig.json
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\bin\Debug\netcoreapp3.1\Algoritmo34.runtimeconfig.dev.json
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\bin\Debug\netcoreapp3.1\Algoritmo34.dll
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\bin\Debug\netcoreapp3.1\Algoritmo34.pdb
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.AssemblyInfoInputs.cache
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.AssemblyInfo.cs
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.dll
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.pdb
+C:\Users\Juan\Downloads\ALGORITMOS CICLOS C#\Algoritmo10_CSharp\Algoritmo10_CSharp\obj\Debug\netcoreapp3.1\Algoritmo34.genruntimeconfig.cache

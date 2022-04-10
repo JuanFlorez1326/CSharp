@@ -1,0 +1,10 @@
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Calculadora.resources
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Juan\Downloads\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb

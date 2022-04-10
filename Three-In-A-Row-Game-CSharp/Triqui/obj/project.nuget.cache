@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUFnmu13LcSY0FfOvVQ/wKUMWl9ufvHXnJ2uUV0zXvNOsn+uqtyTxGHzyRB7DK+K3fQWMSeyPXsW+ngF4oJntA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan\\Downloads\\Triqui C#\\Triqui\\Triqui\\Triqui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
