@@ -1,7 +1,0 @@
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\bin\Debug\Algoritmo13.exe.config
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\bin\Debug\Algoritmo13.exe
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\bin\Debug\Algoritmo13.pdb
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\obj\Debug\Algoritmo13.csproj.AssemblyReference.cache
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\obj\Debug\Algoritmo13.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\obj\Debug\Algoritmo13.exe
-C:\Users\Juan\Downloads\Algoritmo13\Algoritmo13\obj\Debug\Algoritmo13.pdb

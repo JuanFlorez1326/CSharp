@@ -1,7 +1,0 @@
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\bin\Debug\Algoritmo11.exe.config
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\bin\Debug\Algoritmo11.exe
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\bin\Debug\Algoritmo11.pdb
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\obj\Debug\Algoritmo11.csproj.AssemblyReference.cache
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\obj\Debug\Algoritmo11.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\obj\Debug\Algoritmo11.exe
-C:\Users\Juan\Downloads\Algoritmo11\Algoritmo11\obj\Debug\Algoritmo11.pdb

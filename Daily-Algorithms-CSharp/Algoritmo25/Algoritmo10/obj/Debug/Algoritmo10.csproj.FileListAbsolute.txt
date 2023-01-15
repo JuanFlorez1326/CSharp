@@ -1,7 +1,0 @@
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\bin\Debug\Algoritmo10.exe.config
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\bin\Debug\Algoritmo10.exe
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\bin\Debug\Algoritmo10.pdb
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.exe
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.pdb
-C:\Users\Juan\Downloads\Sena\C#\15 Algoritmos C#\Algoritmo10\Algoritmo10\obj\Debug\Algoritmo10.csproj.AssemblyReference.cache

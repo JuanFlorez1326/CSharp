@@ -1,7 +1,0 @@
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.exe.config
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.exe
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.pdb
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.csproj.AssemblyReference.cache
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.exe
-C:\Users\Juan\Downloads\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.pdb

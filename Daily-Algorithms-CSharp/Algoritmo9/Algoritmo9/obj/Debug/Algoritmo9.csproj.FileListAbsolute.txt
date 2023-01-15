@@ -1,7 +1,0 @@
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\bin\Debug\Algoritmo9.exe.config
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\bin\Debug\Algoritmo9.exe
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\bin\Debug\Algoritmo9.pdb
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\obj\Debug\Algoritmo9.csproj.AssemblyReference.cache
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\obj\Debug\Algoritmo9.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\obj\Debug\Algoritmo9.exe
-C:\Users\Juan\Downloads\Algoritmo9\Algoritmo9\obj\Debug\Algoritmo9.pdb

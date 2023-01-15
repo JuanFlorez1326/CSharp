@@ -1,6 +1,0 @@
-C:\Users\Juan\Downloads\Algoritmo25\Algoritmo10\bin\Debug\Algoritmo10.exe.config
-C:\Users\Juan\Downloads\Algoritmo25\Algoritmo10\bin\Debug\Algoritmo10.exe
-C:\Users\Juan\Downloads\Algoritmo25\Algoritmo10\bin\Debug\Algoritmo10.pdb
-C:\Users\Juan\Downloads\Algoritmo25\Algoritmo10\obj\Debug\Algoritmo25.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Downloads\Algoritmo25\Algoritmo10\obj\Debug\Algoritmo10.exe
-C:\Users\Juan\Downloads\Algoritmo25\Algoritmo10\obj\Debug\Algoritmo10.pdb
